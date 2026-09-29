@@ -1,0 +1,6 @@
+name: genpark-conversation-summarizer-sliding-window-skill
+version: 1.0.0
+description: Hierarchical conversational sliding window compressor with dialogue condensation and key decision preservation
+command: python
+args:
+  - mcp_server.py
