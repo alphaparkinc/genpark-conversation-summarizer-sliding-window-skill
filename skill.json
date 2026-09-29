@@ -1,0 +1,20 @@
+{
+  "name": "genpark-conversation-summarizer-sliding-window-skill",
+  "version": "1.0.0",
+  "description": "Hierarchical conversational sliding window compressor with dialogue condensation and key decision preservation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "dialogue-summarizer",
+    "sliding-window",
+    "conversation-compression",
+    "context-engineering",
+    "agent-memory",
+    "python-standard-library",
+    "agent-skills",
+    "nlp-pipeline",
+    "chat-history",
+    "prompt-optimization"
+  ]
+}
